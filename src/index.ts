@@ -1,6 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
-import "./schedular1.js"
+import "./schedular2.js"
+//import "./schedular1.js"
 
 dotenv.config();
 

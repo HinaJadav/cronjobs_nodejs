@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "status": "paid",
+    "description": "laptop",
+    "date": "2024-05-16T10:32:40.282Z"
+  },
+  {
+    "id": 2,
+    "status": "paid",
+    "description": "driv",
+    "date": "2023-12-16T10:32:40.282Z"
+  },
+  {
+    "id": 5,
+    "status": "paid",
+    "description": "monitor",
+    "date": "2024-03-11T09:10:00.000Z"
+  },
+  {
+    "id": 7,
+    "status": "paid",
+    "description": "chair",
+    "date": "2024-01-23T14:45:00.000Z"
+  },
+  {
+    "id": 9,
+    "status": "paid",
+    "description": "printer",
+    "date": "2024-04-14T11:25:00.000Z"
+  },
+  {
+    "id": 11,
+    "status": "paid",
+    "description": "router",
+    "date": "2024-11-05T13:40:00.000Z"
+  },
+  {
+    "id": 13,
+    "status": "paid",
+    "description": "projector",
+    "date": "2024-09-28T10:55:00.000Z"
+  },
+  {
+    "id": 15,
+    "status": "paid",
+    "description": "usb hub",
+    "date": "2024-02-27T09:00:00.000Z"
+  },
+  {
+    "id": 17,
+    "status": "paid",
+    "description": "smartwatch",
+    "date": "2024-01-08T19:42:00.000Z"
+  },
+  {
+    "id": 19,
+    "status": "paid",
+    "description": "gaming mouse",
+    "date": "2024-06-29T11:18:00.000Z"
+  },
+  {
+    "id": 21,
+    "status": "paid",
+    "description": "power bank",
+    "date": "2024-03-30T10:00:00.000Z"
+  },
+  {
+    "id": 23,
+    "status": "paid",
+    "description": "ssd",
+    "date": "2024-02-12T09:30:00.000Z"
+  },
+  {
+    "id": 25,
+    "status": "paid",
+    "description": "ups",
+    "date": "2024-09-17T16:22:00.000Z"
+  },
+  {
+    "id": 27,
+    "status": "paid",
+    "description": "earbuds",
+    "date": "2024-10-03T08:44:00.000Z"
+  },
+  {
+    "id": 29,
+    "status": "paid",
+    "description": "printer ink",
+    "date": "2024-07-24T11:55:00.000Z"
+  },
+  {
+    "id": 31,
+    "status": "paid",
+    "description": "network switch",
+    "date": "2024-03-18T07:45:00.000Z"
+  },
+  {
+    "id": 33,
+    "status": "paid",
+    "description": "phone case",
+    "date": "2024-06-10T09:45:00.000Z"
+  },
+  {
+    "id": 35,
+    "status": "paid",
+    "description": "bluetooth speaker",
+    "date": "2024-01-16T17:12:00.000Z"
+  },
+  {
+    "id": 37,
+    "status": "paid",
+    "description": "stylus",
+    "date": "2024-10-21T12:09:00.000Z"
+  },
+  {
+    "id": 39,
+    "status": "paid",
+    "description": "fitness tracker",
+    "date": "2024-11-11T08:10:00.000Z"
+  },
+  {
+    "id": 41,
+    "status": "paid",
+    "description": "printer paper",
+    "date": "2024-07-13T07:55:00.000Z"
+  },
+  {
+    "id": 43,
+    "status": "paid",
+    "description": "backup drive",
+    "date": "2024-05-30T10:05:00.000Z"
+  },
+  {
+    "id": 45,
+    "status": "paid",
+    "description": "graphics card",
+    "date": "2024-06-15T15:35:00.000Z"
+  },
+  {
+    "id": 47,
+    "status": "paid",
+    "description": "wifi adapter",
+    "date": "2024-01-22T09:50:00.000Z"
+  },
+  {
+    "id": 49,
+    "status": "paid",
+    "description": "surge protector",
+    "date": "2024-03-15T18:18:00.000Z"
+  },
+  {
+    "id": 191,
+    "status": "paid",
+    "description": "gaming mouse",
+    "date": "2024-06-29T11:18:00.000Z"
+  },
+  {
+    "id": 211,
+    "status": "paid",
+    "description": "power bank",
+    "date": "2024-03-30T10:00:00.000Z"
+  }
+]
